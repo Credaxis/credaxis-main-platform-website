@@ -43,7 +43,7 @@ const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://www.linkedin.com/in/ksmahadevan" // Change to your LinkedIn
+              href="https://www.linkedin.com/in/johnokyere" // Change to your LinkedIn
               className="opacity-60 hover:opacity-100"
             >
               LinkedIn
