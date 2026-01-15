@@ -34,7 +34,7 @@ export const Hero = () => {
             </Button>
           </Link>
           <a
-            href="https://github.com/M-DEV-1/Credaxis" // Replace with your actual GitHub repository link
+            href="https://github.com/Credaxis/credaxis-main-platform-website" // Replace with your actual GitHub repository link
             target="_blank"
             rel="noopener noreferrer"
             className="w-full md:w-1/3 inline-flex items-center justify-center border border-primary rounded-md p-2 text-primary transition-colors duration-300 hover:bg-primary hover:text-white"
