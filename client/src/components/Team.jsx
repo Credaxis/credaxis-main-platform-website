@@ -7,59 +7,68 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card.jsx";
-import { Facebook, Instagram, Linkedin } from "lucide-react";
+import { Facebook, Instagram, Linkedin, X, Twitter, Mail } from "lucide-react";
 
 // Updated teamList with the correct full names, roles, and descriptions
 const teamList = [
   {
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgPimc_RQYYbUhV3A_xER8GPifFju7nveLA&s", // Placeholder for Mahadevan KS
-    name: "Mahadevan KS",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgPimc_RQYYbUhV3A_xER8GPifFju7nveLA&s", // Placeholder for John Okyere
+    name: "John Okyere",
     position: "Co-Founder & Blockchain Developer",
     description: "Learning blockchain technology and decentralized systems.",
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/ksmahadevan",
+        url: "https://www.linkedin.com/in/johnokyere",
       },
       {
-        name: "Facebook",
-        url: "https://www.x.com/mahadevan__ks",
+        name: "Twitter",
+        url: "https://www.x.com/0xmhiskall",
+      },
+      {
+        name: "Instagram",
+        url: "https://www.instagram.com/0xmhiskall",
       },
     ],
   },
   {
-    imageUrl: "https://avatar.iran.liara.run/public/30", // Placeholder for Mohammed Iqbal Khan
-    name: "Mohammed Iqbal Khan",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgPimc_RQYYbUhV3A_xER8GPifFju7nveLA&s", // Placeholder for John Okyere
+    name: "0xmhiskall",
     position: "Co-Founder & Frontend Developer",
     description: "Passionate about crafting user-friendly interfaces.",
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/miqbalkhan/",
+        url: "https://www.linkedin.com/in/johnokyere",
       },
       {
-        name: "Facebook",
-        url: "https://www.facebook.com/",
+        name: "Twitter",
+        url: "https://www.x.com/0xmhiskall",
       },
       {
         name: "Instagram",
-        url: "https://www.instagram.com/",
+        url: "https://www.instagram.com/0xmhiskall",
       },
     ],
   },
   {
-    imageUrl: "https://avatar.iran.liara.run/public/11", // Placeholder for Siddharth Vinayak
-    name: "Siddharth Vinayak",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgPimc_RQYYbUhV3A_xER8GPifFju7nveLA&s", // Placeholder for John Okyere
+    
+    name: "Mhiskall",
     position: "Research Specialist",
     description: "Focused on innovative research and development.",
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/elonmusk",
+        url: "https://www.linkedin.com/in/johnokyere",
       },
       {
         name: "Instagram",
-        url: "https://www.instagram.com/",
+        url: "https://www.instagram.com/0xmhiskall",
+      },
+      {
+        name: "Twitter",
+        url: "https://www.x.com/0xmhiskall",
       },
     ],
   },

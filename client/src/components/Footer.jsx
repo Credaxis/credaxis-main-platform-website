@@ -23,7 +23,7 @@ const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://github.com/M-DEV-1" // Change to your GitHub
+              href="https://github.com/mhiskall282" // Change to your GitHub
               className="opacity-60 hover:opacity-100"
             >
               Github
@@ -33,7 +33,7 @@ const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://twitter.com/mahadevan__ks" // Change to your Twitter
+              href="https://twitter.com/0xmhiskall" // Change to your Twitter
               className="opacity-60 hover:opacity-100"
             >
               Twitter
@@ -43,7 +43,7 @@ const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://www.linkedin.com/in/ksmahadevan" // Change to your LinkedIn
+              href="https://www.linkedin.com/in/johnokyere" // Change to your LinkedIn
               className="opacity-60 hover:opacity-100"
             >
               LinkedIn
@@ -87,7 +87,7 @@ const Footer = () => {
 
       <section className="container pb-6 text-center">
         <h3>
-          &copy; 2024 Credaxis | Made by Team TwentyOne
+          &copy; 2026 - All Rights Reserved. Credaxis | Made by Okyere Jay Technologies 
         </h3>
       </section>
     </footer>

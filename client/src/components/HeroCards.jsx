@@ -54,11 +54,11 @@ export const HeroCards = () => {
       <Card className="absolute right-[20px] top-4 w-80 flex flex-col justify-center items-center drop-shadow-xl shadow-black/10 dark:shadow-white/10 transform transition-transform duration-300 hover:scale-105">
         <CardHeader className="mt-8 flex justify-center items-center pb-2">
           <img
-            src="https://pbs.twimg.com/profile_images/1822517376967127040/7387LD_A_400x400.jpg" // Change this to an appropriate image
-            alt="Mahadevan's Avatar"
+            src="https://pbs.twimg.com/profile_images/1962464365807853568/cyqIR8mA_400x400.jpg" // Change this to an appropriate image
+            alt="John's Avatar"
             className="absolute grayscale-0 -top-12 rounded-full w-24 h-24 aspect-square object-cover"
           />
-          <CardTitle className="text-center">Mahadevan KS</CardTitle>
+          <CardTitle className="text-center">John Okyere</CardTitle>
           <CardDescription className="font-normal text-primary">
             Co-Founder & Developer
           </CardDescription>
@@ -74,7 +74,7 @@ export const HeroCards = () => {
           <div className="flex space-x-2">
             <a
               rel="noreferrer noopener"
-              href="https://github.com/M-DEV-1"
+              href="https://github.com/mhiskall282"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",
@@ -86,7 +86,7 @@ export const HeroCards = () => {
             </a>
             <a
               rel="noreferrer noopener"
-              href="https://twitter.com/mahadevan__ks"
+              href="https://twitter.com/0xmhiskall"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",
@@ -107,7 +107,7 @@ export const HeroCards = () => {
 
             <a
               rel="noreferrer noopener"
-              href="https://www.linkedin.com/in/ksmahadevan/"
+              href="https://www.linkedin.com/in/johnokyere/"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",
