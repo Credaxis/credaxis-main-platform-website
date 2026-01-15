@@ -47,7 +47,7 @@ export const HeroCards = () => {
           </div>
         </CardHeader>
 
-        <CardContent>Credora has completely transformed how I manage and verify my certificates!</CardContent>
+        <CardContent>Credaxis has completely transformed how I manage and verify my certificates!</CardContent>
       </Card>
 
       {/* Team */}
@@ -66,7 +66,7 @@ export const HeroCards = () => {
 
         <CardContent className="text-center pb-2">
           <p>
-            At Credora, we empower individuals and organizations to securely issue and verify digital certificates.
+            At Credaxis, we empower individuals and organizations to securely issue and verify digital certificates.
           </p>
         </CardContent>
 
@@ -136,7 +136,7 @@ export const HeroCards = () => {
           </div>
 
           <CardDescription>
-            Use Credora to issue and verify certificates without any costs!
+            Use Credaxis to issue and verify certificates without any costs!
           </CardDescription>
         </CardHeader>
 
