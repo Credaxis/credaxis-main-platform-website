@@ -71,7 +71,7 @@ export const Pricing = () => {
         Empowering Institutions with
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
           {" "}
-          Credora{" "}
+          Credaxis{" "}
         </span>
         Access
       </h2>
