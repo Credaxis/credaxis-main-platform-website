@@ -14,7 +14,7 @@ const Footer = () => {
             className="font-bold text-xl flex"
           >
             <LogoIcon />
-            Credora
+            Credaxis
           </a>
         </div>
 
@@ -52,7 +52,7 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col gap-1">
-          <h3 className="font-bold text-lg">About Credora</h3>
+          <h3 className="font-bold text-lg">About Credaxis</h3>
           <div>
             <a
               rel="noreferrer noopener"
@@ -87,7 +87,7 @@ const Footer = () => {
 
       <section className="container pb-6 text-center">
         <h3>
-          &copy; 2024 Credora | Made by Team TwentyOne
+          &copy; 2024 Credaxis | Made by Team TwentyOne
         </h3>
       </section>
     </footer>
