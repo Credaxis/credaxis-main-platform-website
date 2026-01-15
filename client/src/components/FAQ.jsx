@@ -62,7 +62,7 @@ export const FAQ = () => {
         Still have questions?{" "}
         <a
           rel="noreferrer noopener"
-          href="#"
+          href="mailto:0xmhiskall@gmail.com"
           className="text-primary transition-all border-primary hover:border-b-2"
         >
           Contact us
