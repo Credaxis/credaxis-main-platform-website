@@ -1,8 +1,8 @@
-# Credora
+# Credaxis
 
 ## Overview
 
-Credora is a decentralized certificate verification system designed for educational institutions to issue digital certificates securely on the Ethereum blockchain. By leveraging blockchain technology, Credora eliminates the need for traditional background checks and third-party verification services, allowing employers and institutions to verify credentials instantly and reliably.
+Credaxis is a decentralized certificate verification system designed for educational institutions to issue digital certificates securely on the Ethereum blockchain. By leveraging blockchain technology, Credaxis eliminates the need for traditional background checks and third-party verification services, allowing employers and institutions to verify credentials instantly and reliably.
 
 ## Features
 
