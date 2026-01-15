@@ -1,5 +1,5 @@
 import web3 from './web3';
-import Certificate from '../../../build/contracts/Certificate.json'; // Path to the compiled smart contract JSON
+import Certificate from '../abis/Certificate.json'; // Path to the compiled smart contract JSON
 
 export const getContractInstance = async () => {
     const networkId = await web3.eth.net.getId(); // Get the current network ID (Ganache, Ethereum mainnet, etc.)
